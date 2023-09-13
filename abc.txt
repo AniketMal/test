@@ -1,2 +1,4 @@
 echo "Hiii Very good morning"
 echo "Hllo"
+pwd
+ls
